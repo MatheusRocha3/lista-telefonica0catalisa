@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="lista-telefonica" />
+        <module name="lista-telefonica0catalisa" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="lista-telefonica" options="-parameters" />
+      <module name="lista-telefonica0catalisa" options="-parameters" />
     </option>
   </component>
 </project>

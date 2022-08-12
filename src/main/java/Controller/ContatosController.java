@@ -1,7 +1,7 @@
-package com.listaTelefonica.lista.telefonica.controller;
+package Controller;
 
-import com.listaTelefonica.lista.telefonica.model.ContatosModel;
-import com.listaTelefonica.lista.telefonica.service.ContatosService;
+import Model.ContatosModel;
+import Service.ContatosService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

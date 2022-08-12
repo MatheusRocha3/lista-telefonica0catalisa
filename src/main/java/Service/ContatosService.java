@@ -1,7 +1,7 @@
-package com.listaTelefonica.lista.telefonica.service;
+package Service;
 
-import com.listaTelefonica.lista.telefonica.model.ContatosModel;
-import com.listaTelefonica.lista.telefonica.repository.ContatosRepository;
+import Model.ContatosModel;
+import Repository.ContatosRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

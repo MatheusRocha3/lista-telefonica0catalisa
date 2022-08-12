@@ -1,4 +1,4 @@
-package com.listaTelefonica.lista.telefonica.model;
+package Model;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

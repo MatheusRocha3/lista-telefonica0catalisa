@@ -1,6 +1,6 @@
-package com.listaTelefonica.lista.telefonica.repository;
+package Repository;
 
-import com.listaTelefonica.lista.telefonica.model.ContatosModel;
+import Model.ContatosModel;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
